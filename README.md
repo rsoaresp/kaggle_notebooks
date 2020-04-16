@@ -1,2 +1,2 @@
 # kaggle_notebooks
-my collection of kaggle competition notebooks 
+My collection of kaggle competition notebooks, mainly for personal use. 
